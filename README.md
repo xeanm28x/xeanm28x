@@ -4,7 +4,7 @@
 - 😄 pronouns: she/her
 - ⚡ fun facts:
   - i don't like 🍓
-  - this lovely kitten next to me is Ahsoka
+  - i'm absolutely crazy about Han Solo movie (sorry)
 
 <!---
 xeanm28x/xeanm28x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
