@@ -4,8 +4,7 @@
 - 😄 pronouns: she/her
 - ⚡ fun facts:
   - i don't like 🍓
-  - i'm absolutely crazy about Han Solo movie (sorry)
-
+  - i'm absolutely crazy about lord of the rings
 <!---
 xeanm28x/xeanm28x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
