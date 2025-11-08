@@ -1,15 +1,15 @@
 # 👩‍💻 Oi, meu nome é Estela!
 
-Sou desenvolvedora **Back-End** na [Play55 Tecnologias](https://play55.com.br/) e sou apaixonada pelo o que faço. 🧡
+Sou **Analista de Dados** na [Play55 Tecnologias](https://play55.com.br/) e sou apaixonada pelo o que faço. 🧡
 
-Busco construir soluções escaláveis e aprender constantemente para evoluir a cada projeto. 🚀
+Fui desenvolvedora Back-End na Play por quase 2 anos, mas ainda hoje busco construir soluções escaláveis e aprender constantemente para evoluir a cada projeto. 🚀
 
 
 ## 💻 Sobre mim
 
-Atualmente atuo no desenvolvimento de APIs e sistemas back-end utilizando **JavaScript/TypeScript com AdonisJS (v4 e v5)**, além de **MySQL** como banco de dados relacional.
+Atualmente atuo com **MySQL** puro no visualizador Metabase e, em alguns cenários, contribuo para a manipulação de grande volume de dados com pipelines.
 
-Também tenho explorado o universo Python com Django, por meio de projetos desenvolvidos no bootcamp **Pythonando** 🐍✨
+Nas horas vagas, tenho explorado o universo Python com Django, por meio de projetos desenvolvidos no bootcamp **Pythonando** 🐍✨
 
 Sou formada em Engenharia de Software e, também, estou nos passos finais de me graduar em Sistemas de Informação.
 
